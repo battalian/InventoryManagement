@@ -1,0 +1,6 @@
+com\nagarro\nagp\domain\TestCategory.class
+com\nagarro\nagp\repository\TestDurableInventoryRepository.class
+com\nagarro\nagp\repository\TestFragileInventoryRepository.class
+com\nagarro\nagp\handler\TestInventoryHandler.class
+com\nagarro\nagp\repository\RepositoryHelperTest.class
+com\nagarro\nagp\TestInventoryResource.class

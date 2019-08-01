@@ -1,0 +1,8 @@
+D:\nagp\Junits\Java Assignment\inventorymanagement\src\main\java\com\nagarro\nagp\handler\InventoryHandler.java
+D:\nagp\Junits\Java Assignment\inventorymanagement\src\main\java\com\nagarro\nagp\repository\DurableInventoryRepository.java
+D:\nagp\Junits\Java Assignment\inventorymanagement\src\main\java\com\nagarro\nagp\repository\FragileInventoryRepository.java
+D:\nagp\Junits\Java Assignment\inventorymanagement\src\main\java\com\nagarro\nagp\Inventory.java
+D:\nagp\Junits\Java Assignment\inventorymanagement\src\main\java\com\nagarro\nagp\domain\Category.java
+D:\nagp\Junits\Java Assignment\inventorymanagement\src\main\java\com\nagarro\nagp\InventoryResource.java
+D:\nagp\Junits\Java Assignment\inventorymanagement\src\main\java\com\nagarro\nagp\repository\RepositoryHelper.java
+D:\nagp\Junits\Java Assignment\inventorymanagement\src\main\java\com\nagarro\nagp\exception\InvalidRequestException.java
